@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Студия создания сайта</title>
-        <link rel="stylesheed"href="style.css"/>
+        <link rel="stylesheet"href="style.css"/>
     </head>
     <body>
         <header>
